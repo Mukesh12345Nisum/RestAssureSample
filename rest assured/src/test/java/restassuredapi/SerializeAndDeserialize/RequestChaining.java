@@ -1,11 +1,9 @@
-package restassuredapi.Module3;
+package restassuredapi.SerializeAndDeserialize;
 import static io.restassured.RestAssured.*;
 
 import io.restassured.http.ContentType;
 import io.restassured.response.Response;
 import org.testng.annotations.Test;
-
-import java.io.File;
 
 public class RequestChaining
 {
